@@ -1,1 +1,17 @@
-# ECHONET-SDT-Contribution 
+# ECHONET-SDT-Contribution
+
+Repository by ECHONET Consortium for the Smart Device Template (SDT) project initiated by HGI, Home Gateway Initiative.
+
+Note that this project runs under Apache 2.0 license. Read the [LICENSE](LICENSE) in this repository, or refer to [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Any contributions made to this project must comply with the forementioned license.
+
+
+## Content
+
+You can find further Information here:
+
+- [DOC](doc/)
+- [SDT data](SDTdata/)
+- [LICENSE](LICENSE)
+
