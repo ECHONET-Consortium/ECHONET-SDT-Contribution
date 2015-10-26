@@ -12,6 +12,6 @@ Any contributions made to this project must comply with the forementioned licens
 You can find further Information here:
 
 - [DOC](doc/)
-- [SDT data](SDTdata/)
+- [SDT data](SDT-data/)
 - [LICENSE](LICENSE)
 
